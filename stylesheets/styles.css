@@ -575,14 +575,13 @@ h3 {
   color: #b6b6b6;
 }
 
-a {
+a:hover {
   text-decoration: underline;
 }
 
 
 a small {
   font-size: 11px;
-  color: #666;
   margin-top: -0.6em;
   display: block;
 }
